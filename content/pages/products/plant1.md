@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '13.'
+price: '13.50'
 title: Nutrifix
 description: >-
   A healthy locally produced redt-to-use-suppliment food to prevent malnutrition
