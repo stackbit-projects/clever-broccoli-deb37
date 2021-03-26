@@ -3,7 +3,7 @@ layout: product
 id: '1'
 price: '49.40'
 title: Nutrifix
-description: heathly
+description: 'A healthy '
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
