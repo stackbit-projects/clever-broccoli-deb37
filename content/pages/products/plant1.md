@@ -3,7 +3,7 @@ layout: product
 id: '1'
 price: '49.40'
 title: Nutrifix
-description: 'A healthy locally produced '
+description: A healthy locally produced redt-to
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
